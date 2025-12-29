@@ -1,0 +1,2 @@
+﻿Game.obj : error LNK2005: main이(가) 10_main.obj에 이미 정의되어 있습니다.
+C:\Users\배경만\Desktop\25Programming-1st\SBSProgramming1\x64\Debug\10_상수와 열거형 사용.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

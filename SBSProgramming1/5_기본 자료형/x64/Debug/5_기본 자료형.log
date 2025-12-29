@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(5_기본 자료형.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  5_main.c
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\5_기본 자료형\5_main.c(15,7): warning C4101: 'number1' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\5_기본 자료형\5_main.c(18,7): warning C4101: 'number4' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\5_기본 자료형\5_main.c(19,12): warning C4101: 'number5' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\5_기본 자료형\5_main.c(17,6): warning C4101: 'number3' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\5_기본 자료형\5_main.c(16,8): warning C4101: 'number2' :참조되지 않은 지역 변수입니다.
+  5_기본 자료형.vcxproj -> C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\x64\Debug\05_기본 자료형.exe

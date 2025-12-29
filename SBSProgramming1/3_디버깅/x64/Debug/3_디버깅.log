@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(3_디버깅.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  main.c
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\3_디버깅\main.c(30,2): warning C4098: 'Example': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\3_디버깅\main.c(68,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
+      C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\3_디버깅\main.c(68,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\3_디버깅\main.c(68,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\3_디버깅\main.c(68,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+  3_디버깅.vcxproj -> C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\x64\Debug\03_디버깅.exe

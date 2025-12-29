@@ -1,0 +1,3 @@
+﻿  7_mian.c
+C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\7_반복문\7_mian.c(50,20): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  7_반복문.vcxproj -> C:\Users\Administrator\Desktop\25Programming-1st\SBSProgramming1\x64\Debug\7_반복문.exe
