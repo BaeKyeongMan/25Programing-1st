@@ -1,5 +1,6 @@
 ﻿  12_main.c
-C:\Users\배경만\Desktop\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(33,7): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
-C:\Users\배경만\Desktop\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(35,6): warning C4101: 'mapY' :참조되지 않은 지역 변수입니다.
-C:\Users\배경만\Desktop\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(34,6): warning C4101: 'mapX' :참조되지 않은 지역 변수입니다.
-  12_이차원 배열.vcxproj -> C:\Users\배경만\Desktop\25Programming-1st\SBSProgramming1\x64\Debug\12_이차원 배열.exe
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(33,7): warning C4101: 'input' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(35,6): warning C4101: 'mapY' :참조되지 않은 지역 변수입니다.
+C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\12_이차원 배열\12_main.c(34,6): warning C4101: 'mapX' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\x64\Debug\12_이차원 배열.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  12_이차원 배열.vcxproj -> C:\Users\bae65\OneDrive\바탕 화면\25Programming-1st\SBSProgramming1\x64\Debug\12_이차원 배열.exe
