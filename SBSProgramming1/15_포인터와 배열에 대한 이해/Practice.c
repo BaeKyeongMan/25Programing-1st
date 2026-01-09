@@ -46,6 +46,6 @@ void Func(const char* GroupArray[])  // Group1 -> GroupArray -> localGroupArray·
 
 	for (int i = 0; i < 3; i++)
 	{
-		printf("%s", GroupArray[i]);
+		printf("%s\n", GroupArray[i]);
 	}
 }
